@@ -124,3 +124,6 @@ Edit the variables at the top of the script if your setup differs:
 ## License
 
 MIT
+
+<img width="1204" height="377" alt="Screenshot 2026-05-29 at 15 32 23" src="https://github.com/user-attachments/assets/5f75fe72-afa1-4882-9d07-14e65acc2529" />
+
