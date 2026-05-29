@@ -1,10 +1,6 @@
 # dkim-setup-postfix-dovecot-opendkim
 A Bash script to automate DKIM key generation and OpenDKIM configuration for multiple domains on a Postfix mail server.
 
-# dkim-setup-postfix-dovecot-opendkim
-
-A Bash script to automate DKIM key generation and OpenDKIM configuration for multiple domains on a Postfix mail server.
-
 ## What It Does
 
 Given a list of domains, the script:
